@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1770709146364
+current_stage: None
+description: null
+last_updated_timestamp: 1770709146364
+name: Best_AQI_Model
+run_id: a85ed45551324491862217e8dfd496aa
+run_link: null
+source: file:///C:/Users/AMIR/OneDrive/Desktop/aqi-predictor/mlruns/972405820152810056/a85ed45551324491862217e8dfd496aa/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/AMIR/OneDrive/Desktop/aqi-predictor/mlruns/972405820152810056/a85ed45551324491862217e8dfd496aa/artifacts/model
+user_id: null
+version: 1

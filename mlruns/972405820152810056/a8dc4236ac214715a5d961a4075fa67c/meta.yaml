@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AMIR/OneDrive/Desktop/aqi-predictor/mlruns/972405820152810056/a8dc4236ac214715a5d961a4075fa67c/artifacts
+end_time: 1770709139909
+entry_point_name: ''
+experiment_id: '972405820152810056'
+lifecycle_stage: active
+run_id: a8dc4236ac214715a5d961a4075fa67c
+run_name: Ridge
+run_uuid: a8dc4236ac214715a5d961a4075fa67c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770709133505
+status: 3
+tags: []
+user_id: AMIR

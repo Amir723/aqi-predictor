@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AMIR/OneDrive/Desktop/aqi-predictor/mlruns/972405820152810056/a85ed45551324491862217e8dfd496aa/artifacts
+end_time: 1770709146422
+entry_point_name: ''
+experiment_id: '972405820152810056'
+lifecycle_stage: active
+run_id: a85ed45551324491862217e8dfd496aa
+run_name: BEST_GradientBoosting
+run_uuid: a85ed45551324491862217e8dfd496aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770709139939
+status: 3
+tags: []
+user_id: AMIR

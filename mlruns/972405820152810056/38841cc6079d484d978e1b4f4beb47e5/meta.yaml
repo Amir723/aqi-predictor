@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AMIR/OneDrive/Desktop/aqi-predictor/mlruns/972405820152810056/38841cc6079d484d978e1b4f4beb47e5/artifacts
+end_time: 1770709067793
+entry_point_name: ''
+experiment_id: '972405820152810056'
+lifecycle_stage: active
+run_id: 38841cc6079d484d978e1b4f4beb47e5
+run_name: RandomForest
+run_uuid: 38841cc6079d484d978e1b4f4beb47e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770709032542
+status: 3
+tags: []
+user_id: AMIR
